@@ -3,5 +3,5 @@
 - Após modificação do arquivo em _Markdown_ recomenda-se
 - Salvar o arquivo
 - Dar um git add **nome do arquivo** ou git add *
-- Em seguida, git commit -m "asdf"
+- Em seguida, git commit -m "comentário sobre o novo commit"
 - git push
