@@ -1,1 +1,0 @@
-###### Testando o Git (repositório local) e o GitHub (repositório remoto)
